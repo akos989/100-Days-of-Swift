@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Hungary",
+        "capital": "Budapest",
+        "population": 10,
+        "flagImageUrl": "https://www.countryflags.com/wp-content/uploads/hungary-flag-png-large.png"
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "population": 60,
+        "flagImageUrl": "https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "population": 70,
+        "flagImageUrl": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png"
+    },
+    {
+        "name": "USA",
+        "capital": "Washington DC",
+        "population": 230,
+        "flagImageUrl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png"
+    },
+    {
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "population": 8,
+        "flagImageUrl": "https://www.countryflags.com/wp-content/uploads/slovakia-flag-png-large.png"
+    }
+]
