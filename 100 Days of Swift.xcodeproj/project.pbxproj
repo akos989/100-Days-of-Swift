@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0FE38EE72922F442006A015E /* Project 11 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 11"; path = "../Project 11"; sourceTree = "<group>"; };
+		0FE38EE82922F442006A015E /* Project 9 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 9"; path = "../Project 9"; sourceTree = "<group>"; };
+		0FE38EE92922F442006A015E /* Project 18 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 18"; path = "../Project 18"; sourceTree = "<group>"; };
+		0FE38EEA2922F443006A015E /* Project 19 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 19"; path = "../Project 19"; sourceTree = "<group>"; };
+		0FE38EEB2922F444006A015E /* Project24.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Project24.playground; path = ../Project24.playground; sourceTree = "<group>"; };
+		0FE38EEC2922F444006A015E /* Project27 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project27; path = ../Project27; sourceTree = "<group>"; };
+		0FE38EED2922F444006A015E /* Project 6 A */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 6 A"; path = "../Project 6 A"; sourceTree = "<group>"; };
+		0FE38EEE2922F444006A015E /* Project 10 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 10"; path = "../Project 10"; sourceTree = "<group>"; };
+		0FE38EEF2922F444006A015E /* Project 13 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 13"; path = "../Project 13"; sourceTree = "<group>"; };
+		0FE38EF02922F444006A015E /* Project22 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project22; path = ../Project22; sourceTree = "<group>"; };
+		0FE38EF12922F444006A015E /* Project */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project; path = ../Project; sourceTree = "<group>"; };
+		0FE38EF22922F444006A015E /* Project 6 B */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 6 B"; path = "../Project 6 B"; sourceTree = "<group>"; };
+		0FE38EF32922F444006A015E /* Project28 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project28; path = ../Project28; sourceTree = "<group>"; };
+		0FE38EF42922F445006A015E /* Project 7 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 7"; path = "../Project 7"; sourceTree = "<group>"; };
+		0FE38EF52922F445006A015E /* Project 2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 2"; path = "../Project 2"; sourceTree = "<group>"; };
+		0FE38EF62922F445006A015E /* Project23 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project23; path = ../Project23; sourceTree = "<group>"; };
+		0FE38EF72922F445006A015E /* Project 12 b */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 12 b"; path = "../Project 12 b"; sourceTree = "<group>"; };
+		0FE38EF82922F445006A015E /* Consolidation 7 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Consolidation 7"; path = "../Consolidation 7"; sourceTree = "<group>"; };
+		0FE38EF92922F445006A015E /* Consolidation 6 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Consolidation 6"; path = "../Consolidation 6"; sourceTree = "<group>"; };
+		0FE38EFA2922F445006A015E /* Project26 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project26; path = ../Project26; sourceTree = "<group>"; };
+		0FE38EFB2922F445006A015E /* Consolidation11 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Consolidation11; path = ../Consolidation11; sourceTree = "<group>"; };
+		0FE38EFC2922F445006A015E /* Project 8 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 8"; path = "../Project 8"; sourceTree = "<group>"; };
+		0FE38EFD2922F445006A015E /* Consolidation10 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Consolidation10; path = ../Consolidation10; sourceTree = "<group>"; };
+		0FE38EFE2922F445006A015E /* Consolidation 3 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Consolidation 3"; path = "../Consolidation 3"; sourceTree = "<group>"; };
+		0FE38EFF2922F446006A015E /* Project 6 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 6"; path = "../Project 6"; sourceTree = "<group>"; };
+		0FE38F002922F446006A015E /* Project 14 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 14"; path = "../Project 14"; sourceTree = "<group>"; };
+		0FE38F012922F446006A015E /* Project 16 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 16"; path = "../Project 16"; sourceTree = "<group>"; };
+		0FE38F022922F446006A015E /* Project25 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project25; path = ../Project25; sourceTree = "<group>"; };
+		0FE38F032922F446006A015E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		0FE38F042922F446006A015E /* Project 5 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 5"; path = "../Project 5"; sourceTree = "<group>"; };
+		0FE38F052922F446006A015E /* Hangman */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Hangman; path = ../Hangman; sourceTree = "<group>"; };
+		0FE38F062922F446006A015E /* Project29 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project29; path = ../Project29; sourceTree = "<group>"; };
+		0FE38F072922F446006A015E /* Project 4 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 4"; path = "../Project 4"; sourceTree = "<group>"; };
+		0FE38F082922F446006A015E /* Consolidation 2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Consolidation 2"; path = "../Consolidation 2"; sourceTree = "<group>"; };
+		0FE38F092922F446006A015E /* Project 20 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 20"; path = "../Project 20"; sourceTree = "<group>"; };
+		0FE38F0A2922F447006A015E /* Consolidation8 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Consolidation8; path = ../Consolidation8; sourceTree = "<group>"; };
+		0FE38F0B2922F447006A015E /* Project 1 B */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 1 B"; path = "../Project 1 B"; sourceTree = "<group>"; };
+		0FE38F0C2922F447006A015E /* Project 3 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 3"; path = "../Project 3"; sourceTree = "<group>"; };
+		0FE38F0D2922F447006A015E /* Project 15 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 15"; path = "../Project 15"; sourceTree = "<group>"; };
+		0FE38F0E2922F447006A015E /* Project 17 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Project 17"; path = "../Project 17"; sourceTree = "<group>"; };
+		0FE38F0F2922F447006A015E /* Project21 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project21; path = ../Project21; sourceTree = "<group>"; };
+		0FE38F102922F447006A015E /* Consolidation 5 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Consolidation 5"; path = "../Consolidation 5"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0FE38EE02922F408006A015E = {
+			isa = PBXGroup;
+			children = (
+				0FE38F082922F446006A015E /* Consolidation 2 */,
+				0FE38EFE2922F445006A015E /* Consolidation 3 */,
+				0FE38F102922F447006A015E /* Consolidation 5 */,
+				0FE38EF92922F445006A015E /* Consolidation 6 */,
+				0FE38EF82922F445006A015E /* Consolidation 7 */,
+				0FE38F0A2922F447006A015E /* Consolidation8 */,
+				0FE38EFD2922F445006A015E /* Consolidation10 */,
+				0FE38EFB2922F445006A015E /* Consolidation11 */,
+				0FE38F052922F446006A015E /* Hangman */,
+				0FE38EF12922F444006A015E /* Project */,
+				0FE38F0B2922F447006A015E /* Project 1 B */,
+				0FE38EF52922F445006A015E /* Project 2 */,
+				0FE38F0C2922F447006A015E /* Project 3 */,
+				0FE38F072922F446006A015E /* Project 4 */,
+				0FE38F042922F446006A015E /* Project 5 */,
+				0FE38EFF2922F446006A015E /* Project 6 */,
+				0FE38EED2922F444006A015E /* Project 6 A */,
+				0FE38EF22922F444006A015E /* Project 6 B */,
+				0FE38EF42922F445006A015E /* Project 7 */,
+				0FE38EFC2922F445006A015E /* Project 8 */,
+				0FE38EE82922F442006A015E /* Project 9 */,
+				0FE38EEE2922F444006A015E /* Project 10 */,
+				0FE38EE72922F442006A015E /* Project 11 */,
+				0FE38EF72922F445006A015E /* Project 12 b */,
+				0FE38EEF2922F444006A015E /* Project 13 */,
+				0FE38F002922F446006A015E /* Project 14 */,
+				0FE38F0D2922F447006A015E /* Project 15 */,
+				0FE38F012922F446006A015E /* Project 16 */,
+				0FE38F0E2922F447006A015E /* Project 17 */,
+				0FE38EE92922F442006A015E /* Project 18 */,
+				0FE38EEA2922F443006A015E /* Project 19 */,
+				0FE38F092922F446006A015E /* Project 20 */,
+				0FE38F0F2922F447006A015E /* Project21 */,
+				0FE38EF02922F444006A015E /* Project22 */,
+				0FE38EF62922F445006A015E /* Project23 */,
+				0FE38EEB2922F444006A015E /* Project24.playground */,
+				0FE38F022922F446006A015E /* Project25 */,
+				0FE38EFA2922F445006A015E /* Project26 */,
+				0FE38EEC2922F444006A015E /* Project27 */,
+				0FE38EF32922F444006A015E /* Project28 */,
+				0FE38F062922F446006A015E /* Project29 */,
+				0FE38F032922F446006A015E /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0FE38EE12922F408006A015E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+			};
+			buildConfigurationList = 0FE38EE42922F408006A015E /* Build configuration list for PBXProject "100 Days of Swift" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0FE38EE02922F408006A015E;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0FE38EE52922F408006A015E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0FE38EE62922F408006A015E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0FE38EE42922F408006A015E /* Build configuration list for PBXProject "100 Days of Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0FE38EE52922F408006A015E /* Debug */,
+				0FE38EE62922F408006A015E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0FE38EE12922F408006A015E /* Project object */;
+}
